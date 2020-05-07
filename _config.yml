@@ -25,7 +25,7 @@ github_username:  Knuttas
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+remote-theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
