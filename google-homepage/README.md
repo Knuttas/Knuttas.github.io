@@ -1,1 +1,0 @@
-This is my first project made for the odin project. It taught me basic HTML and CSS by making me copy the homepage of Google (simplified).
