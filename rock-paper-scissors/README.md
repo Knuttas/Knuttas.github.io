@@ -1,1 +1,0 @@
-My first javascript game. It is 5 rounds of rock paper scissors against the computer.
