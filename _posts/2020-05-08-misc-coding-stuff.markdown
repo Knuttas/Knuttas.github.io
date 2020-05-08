@@ -10,7 +10,7 @@ Here is a website where you can tackle coding challenges called "Katas"
 and hone your skills. Lots of fun.
 
 
-[Codepen.io profile][projectlink]
+[Codepen.io profile][projectlink2]
 
 Some projects I made when taking the freeCodeCamp full stack web developer
 course.
