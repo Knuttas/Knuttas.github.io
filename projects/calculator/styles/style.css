@@ -1,0 +1,39 @@
+#calculator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper {
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+  
+.formulaScreen {
+  font-family: monospace;
+  font-size: 30px;
+  text-align: right;
+  height: 35px;
+  border: solid;
+}
+  
+.outputScreen {
+  font-family: monospace;
+  font-size: 40px;
+  text-align: right;
+  border: solid;
+}
+  
+button {
+  height: 65px;
+  width: 80px;
+  background-color: white;
+  border-color: black;
+  border-width: 2px;
+  font-size: large;
+}
+  
+.wideButton {
+  width: 160px;
+}
