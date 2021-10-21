@@ -1,0 +1,60 @@
+h1 {
+  color: rgb(221, 33, 33);
+}
+
+body {
+  background: rgb(44, 44, 44);
+  color: whitesmoke;
+}
+
+img {
+  height: 400px;
+}
+
+#title {
+  background: blue;
+  /* display: inline-block; */
+  width: 50%;
+  color: white;
+  padding: 10px;
+}
+
+
+#user-form {
+  background: lightblue;
+  padding: 10px;
+  display: inline-block;
+}
+
+#user-info {
+  /* background-image: url("https://nationaltoday.com/wp-content/uploads/2020/07/Kitten.jpg"); */
+  background-image: url("/images/kitten.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 50%;
+  padding: 10px;
+  float: left;
+  margin-left: 20px;
+}
+
+#pic1 {
+  text-align: center;
+  display: inline-block;
+}
+
+#pic2 {
+  text-align: center;
+  display: inline-block;
+}
+
+#pic3 {
+  text-align: center;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+#pic4 {
+  text-align: center;
+  display: inline-block;
+  margin-top: 20px;
+}
