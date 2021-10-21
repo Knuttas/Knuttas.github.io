@@ -58,3 +58,11 @@ img {
   display: inline-block;
   margin-top: 20px;
 }
+
+a:link {
+  color: cornflowerblue;
+}
+
+a:visited {
+  color: darkorchid;
+}
